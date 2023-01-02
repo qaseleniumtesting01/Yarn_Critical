@@ -1,0 +1,27 @@
+{
+  "name": "npm",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@angular/core": "^8.2.14",
+    "bson": "^1.0.9",
+    "copy-props": "^2.0.4",
+    "cryptiles": "^2.0.5",
+    "ejs": "^3.1.5",
+    "elliptic": "^6.5.0",
+    "getobject": "^0.1.0",
+    "lodash": "^2.4.1",
+    "merge": "^1.2.1",
+    "pug": "^2.0.4",
+    "q": "^1.5.1",
+    "serialize-javascript": "^1.9.1",
+    "ssri": "^8.0.0",
+    "trim-newlines": "^1.0.0"
+  }
+}
